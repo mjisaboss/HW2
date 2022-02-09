@@ -12,7 +12,7 @@ This is project was created as a part of the course "Introduction to AR/VR Appli
 
 ### **Project Screenshots**
 Screenshot of the project.
-![Ohio University](img/screenshot.jpg)
+![Project Picture](3D.JPG)
 
 ### **Author**
-The author of the project: Akbar Sultanov
+The author of the project: MJ Beatty
